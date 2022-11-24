@@ -1,0 +1,72 @@
+[
+  {
+    "productName": "Kepala Silinder",
+    "sellingPrice": "20000",
+    "purchasePrice": "15000",
+    "stock": "100",
+    "category": "partMobil"
+  },
+  {
+    "productName": "Blok Silinder",
+    "sellingPrice": "15000",
+    "purchasePrice": "10000",
+    "stock": "100",
+    "category": "partMobil"
+  },
+  {
+    "productName": "Poros Engkol",
+    "sellingPrice": "17500",
+    "purchasePrice": "12500",
+    "stock": "100",
+    "category": "partMobil"
+  },
+  {
+    "productName": "Pengangkat Katup",
+    "sellingPrice": "25000",
+    "purchasePrice": "20000",
+    "stock": "100",
+    "category": "partMobil"
+  },
+  {
+    "productName": "Radiator",
+    "sellingPrice": "22500",
+    "purchasePrice": "17500",
+    "stock": "100",
+    "category": "partMobil"
+  },
+  {
+    "productName": "Karburator",
+    "sellingPrice": "12500",
+    "purchasePrice": "7500",
+    "stock": "100",
+    "category": "partMotor"
+  },
+  {
+    "productName": "Karter",
+    "sellingPrice": "10000",
+    "purchasePrice": "5000",
+    "stock": "100",
+    "category": "partMotor"
+  },
+  {
+    "productName": "Timming Chain",
+    "sellingPrice": "9000",
+    "purchasePrice": "6000",
+    "stock": "100",
+    "category": "partMotor"
+  },
+  {
+    "productName": "Oli Motor",
+    "sellingPrice": "8000",
+    "purchasePrice": "6000",
+    "stock": "100",
+    "category": "partMotor"
+  },
+  {
+    "productName": "Tali Gas",
+    "sellingPrice": "10000",
+    "purchasePrice": "6000",
+    "stock": "100",
+    "category": "partMotor"
+  }
+]
